@@ -191,7 +191,7 @@ Price and Volume process with Technology Analysis Indices
 
 Track calls & puts activity, unusual options volume, and large institutional orders to gauge directional sentiment.
 
-- [Cheddar Flow](https://www.cheddarflow.com/) - Real-time options flow analytics platform tracking calls and puts activity, unusual options volume, dark pool prints, and large institutional orders to surface bullish/bearish sentiment signals.
+- [Cheddar Flow](https://www.cheddarflow.com/) - Real-time options flow scanner streaming calls/puts sweeps and blocks with ticker, expiry, strike, side (bid/ask), buy/sell, spot, size, price, premium, volume, and open interest — useful for spotting unusual options activity and institutional positioning.
 
 ## Research Tools
 
