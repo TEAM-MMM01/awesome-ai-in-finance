@@ -192,6 +192,8 @@ Price and Volume process with Technology Analysis Indices
 Track calls & puts activity, unusual options volume, and large institutional orders to gauge directional sentiment.
 
 - [Cheddar Flow](https://www.cheddarflow.com/) - Real-time options flow scanner streaming calls/puts sweeps and blocks with ticker, expiry, strike, side (bid/ask), buy/sell, spot, size, price, premium, volume, and open interest — useful for spotting unusual options activity and institutional positioning.
+- [unusual-whales-mcp](https://github.com/erikmaday/unusual-whales-mcp) - MCP server exposing the Unusual Whales API (options flow, dark pool prints, congressional trades) so LLM agents can query flow data directly.
+- [Options_Based_Trading](https://github.com/Andrew-Reis-SMU-2022/Options_Based_Trading) - Python tool that analyzes unusual OTM options trades for a given ticker/expiry using volume-weighted comparisons.
 
 ## Research Tools
 
