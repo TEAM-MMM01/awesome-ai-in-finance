@@ -187,6 +187,12 @@ Price and Volume process with Technology Analysis Indices
 
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
 
+#### Options Flow
+
+Track calls & puts activity, unusual options volume, and large institutional orders to gauge directional sentiment.
+
+- [Cheddar Flow](https://www.cheddarflow.com/) - Real-time options flow analytics platform tracking calls and puts activity, unusual options volume, dark pool prints, and large institutional orders to surface bullish/bearish sentiment signals.
+
 ## Research Tools
 
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
